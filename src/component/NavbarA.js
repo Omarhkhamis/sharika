@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 function NavbarA() {
   return (
     <div className="flex justify-between items-center h-8 w-full">
-      <Link to="/sharikawalaken/en" className="text-white text-bold">
+      <Link to="/sharika/en" className="text-white text-bold">
         English
       </Link>
       <img src={logo} className="w-25 logo" alt="" />

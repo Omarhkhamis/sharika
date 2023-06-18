@@ -7,8 +7,8 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <Routes>
-          <Route exact path="/sharikawalaken" element={<Arabic />} />
-          <Route exact path="/sharikawalaken/en" element={<English />} />
+          <Route exact path="/sharika" element={<Arabic />} />
+          <Route exact path="/sharika/en" element={<English />} />
         </Routes>
       </div>
     </BrowserRouter>
