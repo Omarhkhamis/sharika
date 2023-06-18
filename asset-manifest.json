@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sharika/static/css/main.6852e0a5.css",
+    "main.js": "/sharika/static/js/main.545ec21b.js",
+    "static/js/787.fe233384.chunk.js": "/sharika/static/js/787.fe233384.chunk.js",
+    "static/media/تعديل 2.jpg": "/sharika/static/media/تعديل 2.379a843c24f2b6ad2eef.jpg",
+    "static/media/O3.jpg": "/sharika/static/media/O3.ecd706cea92f5a62bddd.jpg",
+    "static/media/O2.jpg": "/sharika/static/media/O2.7cf9bed1065fa31b2036.jpg",
+    "static/media/O1-1.jpg": "/sharika/static/media/O1-1.e6bf7f3396e78cb7808f.jpg",
+    "static/media/Ot2.jpg": "/sharika/static/media/Ot2.741e4a2c9dbf7a85220f.jpg",
+    "static/media/c2.jpg": "/sharika/static/media/c2.f2b21a626974a173c498.jpg",
+    "static/media/base-logo.png": "/sharika/static/media/base-logo.182b46bdc3b4bba10fb4.png",
+    "static/media/GESSTextBold-Bold.woff": "/sharika/static/media/GESSTextBold-Bold.ff64e392e52f1afcc353.woff",
+    "static/media/GESSTextMedium-Medium.woff": "/sharika/static/media/GESSTextMedium-Medium.8526238239779f2dc915.woff",
+    "static/media/GESSTextBold-Bold.woff2": "/sharika/static/media/GESSTextBold-Bold.dfa5691f8f99bd82591d.woff2",
+    "static/media/GESSTextMedium-Medium.woff2": "/sharika/static/media/GESSTextMedium-Medium.0cebbfea1317c2d308b7.woff2",
+    "index.html": "/sharika/index.html",
+    "main.6852e0a5.css.map": "/sharika/static/css/main.6852e0a5.css.map",
+    "main.545ec21b.js.map": "/sharika/static/js/main.545ec21b.js.map",
+    "787.fe233384.chunk.js.map": "/sharika/static/js/787.fe233384.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6852e0a5.css",
+    "static/js/main.545ec21b.js"
+  ]
+}
